@@ -10,4 +10,4 @@ var result = _.mapValues(data, function(item) {
 console.log(JSON.stringify(result));
 //_.each(result, (item) => console.log(item));//
 
-//base url = https://products-api-stub.azurewebsites.net/product/catalogue/v3/summaries?productIds=2268156&store=en-GB&expand=variants&currency=GBP
+//base url = https://xxxx/product/catalogue/v3/summaries?productIds=2268156&store=en-GB&expand=variants&currency=GBP
