@@ -5,42 +5,42 @@
     "brandName": "Wonderbra",
     "images": [
       {
-        "url": "s7testing-images.asos-media.com/products/wonderbra-multiplunge-bra/140079-1-black",
+        "url": "s7testing-images.xxxxx.com/products/wonderbra-multiplunge-bra/140079-1-black",
         "type": "Standard1",
         "colourCode": "BK1",
         "colour": "Black",
         "isPrimary": true
       },
       {
-        "url": "s7testing-images.asos-media.com/products/wonderbra-multiplunge-bra/140079-1-nudeskin",
+        "url": "s7testing-images.xxxx.com/products/wonderbra-multiplunge-bra/140079-1-nudeskin",
         "type": "Standard1",
         "colourCode": "ST1",
         "colour": "Nude/skin",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/wonderbra-multiplunge-bra/140079-1-white",
+        "url": "s7testing-images.xxxx.com/products/wonderbra-multiplunge-bra/140079-1-white",
         "type": "Standard1",
         "colourCode": "WH1",
         "colour": "White",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/wonderbra-multiplunge-bra/140079-2",
+        "url": "s7testing-images.xxxxx.com/products/wonderbra-multiplunge-bra/140079-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/wonderbra-multiplunge-bra/140079-3",
+        "url": "s7testing-images.xxxxx.com/products/wonderbra-multiplunge-bra/140079-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/wonderbra-multiplunge-bra/140079-4",
+        "url": "s7testing-images.xxxxx.com/products/wonderbra-multiplunge-bra/140079-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
@@ -50,19 +50,19 @@
     "price": {
       "current": {
         "value": 16.00,
-        "text": "£16.00"
+        "text": "Â£16.00"
       },
       "previous": {
         "value": 28.00,
-        "text": "£28.00"
+        "text": "Â£28.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 16.00,
-        "text": "£16.00"
+        "text": "Â£16.00"
       },
       "currency": "GBP",
       "isMarkedDown": true,
@@ -94,19 +94,19 @@
         "price": {
           "current": {
             "value": 16.00,
-            "text": "£16.00"
+            "text": "Â£16.00"
           },
           "previous": {
             "value": 25.00,
-            "text": "£25.00"
+            "text": "Â£25.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 16.00,
-            "text": "£16.00"
+            "text": "Â£16.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -130,19 +130,19 @@
         "price": {
           "current": {
             "value": 17.00,
-            "text": "£17.00"
+            "text": "Â£17.00"
           },
           "previous": {
             "value": 26.00,
-            "text": "£26.00"
+            "text": "Â£26.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 17.00,
-            "text": "£17.00"
+            "text": "Â£17.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -166,19 +166,19 @@
         "price": {
           "current": {
             "value": 17.00,
-            "text": "£17.00"
+            "text": "Â£17.00"
           },
           "previous": {
             "value": 26.00,
-            "text": "£26.00"
+            "text": "Â£26.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 17.00,
-            "text": "£17.00"
+            "text": "Â£17.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -202,19 +202,19 @@
         "price": {
           "current": {
             "value": 18.00,
-            "text": "£18.00"
+            "text": "Â£18.00"
           },
           "previous": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 18.00,
-            "text": "£18.00"
+            "text": "Â£18.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -238,19 +238,19 @@
         "price": {
           "current": {
             "value": 19.00,
-            "text": "£19.00"
+            "text": "Â£19.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 19.00,
-            "text": "£19.00"
+            "text": "Â£19.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -274,19 +274,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -310,19 +310,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -346,19 +346,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -382,19 +382,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -418,19 +418,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -454,19 +454,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -490,19 +490,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -526,19 +526,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -562,19 +562,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -598,19 +598,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -634,19 +634,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -670,19 +670,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -706,19 +706,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -742,19 +742,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -778,19 +778,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -814,19 +814,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -850,19 +850,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -886,19 +886,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -922,19 +922,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -958,19 +958,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -994,19 +994,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1030,19 +1030,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1066,19 +1066,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1102,19 +1102,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1138,19 +1138,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1174,19 +1174,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1210,19 +1210,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1246,19 +1246,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1282,19 +1282,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1318,19 +1318,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1345,21 +1345,21 @@
     "brandName": "ASOS",
     "images": [
       {
-        "url": "s7testing-images.asos-media.com/products/asos-colour-detail-canvas-watch/2268156-1-khaki",
+        "url": "s7testing-images.xxxxx.com/products/asos-colour-detail-canvas-watch/2268156-1-khaki",
         "type": "Standard1",
         "colourCode": "GR1",
         "colour": "Khaki",
         "isPrimary": true
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-colour-detail-canvas-watch/2268156-2",
+        "url": "s7testing-images.xxxxx.com/products/asos-colour-detail-canvas-watch/2268156-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-colour-detail-canvas-watch/2268156-3",
+        "url": "s7testing-images.xxxxx.com/products/asos-colour-detail-canvas-watch/2268156-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
@@ -1369,19 +1369,19 @@
     "price": {
       "current": {
         "value": 4.00,
-        "text": "£4.00"
+        "text": "Â£4.00"
       },
       "previous": {
         "value": 25.00,
-        "text": "£25.00"
+        "text": "Â£25.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 4.00,
-        "text": "£4.00"
+        "text": "Â£4.00"
       },
       "currency": "GBP",
       "isMarkedDown": true,
@@ -1413,19 +1413,19 @@
         "price": {
           "current": {
             "value": 4.00,
-            "text": "£4.00"
+            "text": "Â£4.00"
           },
           "previous": {
             "value": 25.00,
-            "text": "£25.00"
+            "text": "Â£25.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 4.00,
-            "text": "£4.00"
+            "text": "Â£4.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1440,35 +1440,35 @@
     "brandName": "ASOS",
     "images": [
       {
-        "url": "s7testing-images.asos-media.com/products/asos-sorted-heels/3966223-1-white",
+        "url": "s7testing-images.xxxxx.com/products/asos-sorted-heels/3966223-1-white",
         "type": "Standard1",
         "colourCode": "WH1",
         "colour": "White",
         "isPrimary": true
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-sorted-heels/3966223-2",
+        "url": "s7testing-images.xxxxx.com/products/asos-sorted-heels/3966223-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-sorted-heels/3966223-3",
+        "url": "s7testing-images.xxxxx.com/products/asos-sorted-heels/3966223-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-sorted-heels/3966223-4",
+        "url": "s7testing-images.xxxxx.com/products/asos-sorted-heels/3966223-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-sorted-heels/3966223-swatch-wh1",
+        "url": "s7testing-images.xxxxx.com/products/asos-sorted-heels/3966223-swatch-wh1",
         "type": "Swatch",
         "colourCode": "WH1",
         "colour": "White",
@@ -1478,19 +1478,19 @@
     "price": {
       "current": {
         "value": 15.00,
-        "text": "£15.00"
+        "text": "Â£15.00"
       },
       "previous": {
         "value": 30.00,
-        "text": "£30.00"
+        "text": "Â£30.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 15.00,
-        "text": "£15.00"
+        "text": "Â£15.00"
       },
       "currency": "GBP",
       "isMarkedDown": true,
@@ -1522,19 +1522,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1558,19 +1558,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1594,19 +1594,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1630,19 +1630,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1666,19 +1666,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1702,19 +1702,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1738,19 +1738,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1774,19 +1774,19 @@
         "price": {
           "current": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "previous": {
             "value": 30.00,
-            "text": "£30.00"
+            "text": "Â£30.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 15.00,
-            "text": "£15.00"
+            "text": "Â£15.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1801,35 +1801,35 @@
     "brandName": "Nike",
     "images": [
       {
-        "url": "s7testing-images.asos-media.com/products/nike-purple-pink-air-max-thea-trainers/4105948-1-royalbluehyperpin",
+        "url": "s7testing-images.xxxxx.com/products/nike-purple-pink-air-max-thea-trainers/4105948-1-royalbluehyperpin",
         "type": "Standard1",
         "colourCode": "PU1",
         "colour": "Royal blue/hyper pin",
         "isPrimary": true
       },
       {
-        "url": "s7testing-images.asos-media.com/products/nike-purple-pink-air-max-thea-trainers/4105948-2",
+        "url": "s7testing-images.xxxxx.com/products/nike-purple-pink-air-max-thea-trainers/4105948-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/nike-purple-pink-air-max-thea-trainers/4105948-3",
+        "url": "s7testing-images.xxxxx.com/products/nike-purple-pink-air-max-thea-trainers/4105948-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/nike-purple-pink-air-max-thea-trainers/4105948-4",
+        "url": "s7testing-images.xxxxx.com/products/nike-purple-pink-air-max-thea-trainers/4105948-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/nike-purple-pink-air-max-thea-trainers/4105948-swatch-pu1",
+        "url": "s7testing-images.xxxxx.com/products/nike-purple-pink-air-max-thea-trainers/4105948-swatch-pu1",
         "type": "Swatch",
         "colourCode": "PU1",
         "colour": "Royal blue/hyper pin",
@@ -1839,19 +1839,19 @@
     "price": {
       "current": {
         "value": 59.00,
-        "text": "£59.00"
+        "text": "Â£59.00"
       },
       "previous": {
         "value": 85.00,
-        "text": "£85.00"
+        "text": "Â£85.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 59.00,
-        "text": "£59.00"
+        "text": "Â£59.00"
       },
       "currency": "GBP",
       "isMarkedDown": true,
@@ -1883,19 +1883,19 @@
         "price": {
           "current": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "previous": {
             "value": 85.00,
-            "text": "£85.00"
+            "text": "Â£85.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1919,19 +1919,19 @@
         "price": {
           "current": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "previous": {
             "value": 85.00,
-            "text": "£85.00"
+            "text": "Â£85.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1955,19 +1955,19 @@
         "price": {
           "current": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "previous": {
             "value": 85.00,
-            "text": "£85.00"
+            "text": "Â£85.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -1991,19 +1991,19 @@
         "price": {
           "current": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "previous": {
             "value": 85.00,
-            "text": "£85.00"
+            "text": "Â£85.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -2027,19 +2027,19 @@
         "price": {
           "current": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "previous": {
             "value": 85.00,
-            "text": "£85.00"
+            "text": "Â£85.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -2063,19 +2063,19 @@
         "price": {
           "current": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "previous": {
             "value": 85.00,
-            "text": "£85.00"
+            "text": "Â£85.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -2099,19 +2099,19 @@
         "price": {
           "current": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "previous": {
             "value": 85.00,
-            "text": "£85.00"
+            "text": "Â£85.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 59.00,
-            "text": "£59.00"
+            "text": "Â£59.00"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -2126,35 +2126,35 @@
     "brandName": "ASOS",
     "images": [
       {
-        "url": "s7testing-images.asos-media.com/products/asos-chelsea-boots-in-suede/4302381-1-brownsuede",
+        "url": "s7testing-images.xxxxx.com/products/asos-chelsea-boots-in-suede/4302381-1-brownsuede",
         "type": "Standard1",
         "colourCode": "BR1",
         "colour": "Brown suede",
         "isPrimary": true
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-chelsea-boots-in-suede/4302381-2",
+        "url": "s7testing-images.xxxxx.com/products/asos-chelsea-boots-in-suede/4302381-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-chelsea-boots-in-suede/4302381-3",
+        "url": "s7testing-images.xxxxx.com/products/asos-chelsea-boots-in-suede/4302381-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-chelsea-boots-in-suede/4302381-4",
+        "url": "s7testing-images.xxxxx.com/products/asos-chelsea-boots-in-suede/4302381-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/asos-chelsea-boots-in-suede/4302381-swatch-br1",
+        "url": "s7testing-images.xxxxx.com/products/asos-chelsea-boots-in-suede/4302381-swatch-br1",
         "type": "Swatch",
         "colourCode": "BR1",
         "colour": "Brown suede",
@@ -2164,19 +2164,19 @@
     "price": {
       "current": {
         "value": 40.00,
-        "text": "£40.00"
+        "text": "Â£40.00"
       },
       "previous": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 40.00,
-        "text": "£40.00"
+        "text": "Â£40.00"
       },
       "currency": "GBP",
       "isMarkedDown": false,
@@ -2208,19 +2208,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2244,19 +2244,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2280,19 +2280,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2316,19 +2316,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2352,19 +2352,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2388,19 +2388,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2424,19 +2424,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2460,19 +2460,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2496,19 +2496,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2532,19 +2532,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2568,19 +2568,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2604,19 +2604,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2640,19 +2640,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2676,19 +2676,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2712,19 +2712,19 @@
         "price": {
           "current": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "previous": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 40.00,
-            "text": "£40.00"
+            "text": "Â£40.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2739,35 +2739,35 @@
     "brandName": "Back By Ann Sofie Back",
     "images": [
       {
-        "url": "s7testing-images.asos-media.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-1-softblue",
+        "url": "s7testing-images.xxxxx.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-1-softblue",
         "type": "Standard1",
         "colourCode": "BL1",
         "colour": "Soft blue",
         "isPrimary": true
       },
       {
-        "url": "s7testing-images.asos-media.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-2",
+        "url": "s7testing-images.xxxxx.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-3",
+        "url": "s7testing-images.xxxxx.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-4",
+        "url": "s7testing-images.xxxxx.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-swatch-bl1",
+        "url": "s7testing-images.xxxxx.com/products/back-by-ann-sofie-knot-short-sleeve-t-shirt/4769209-swatch-bl1",
         "type": "Swatch",
         "colourCode": "BL1",
         "colour": "Soft blue",
@@ -2777,19 +2777,19 @@
     "price": {
       "current": {
         "value": 27.00,
-        "text": "£27.00"
+        "text": "Â£27.00"
       },
       "previous": {
         "value": 50.00,
-        "text": "£50.00"
+        "text": "Â£50.00"
       },
       "rrp": {
         "value": 99.00,
-        "text": "£99.00"
+        "text": "Â£99.00"
       },
       "xrp": {
         "value": 27.00,
-        "text": "£27.00"
+        "text": "Â£27.00"
       },
       "currency": "GBP",
       "isMarkedDown": false,
@@ -2821,19 +2821,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 50.00,
-            "text": "£50.00"
+            "text": "Â£50.00"
           },
           "rrp": {
             "value": 99.00,
-            "text": "£99.00"
+            "text": "Â£99.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2857,19 +2857,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 50.00,
-            "text": "£50.00"
+            "text": "Â£50.00"
           },
           "rrp": {
             "value": 99.00,
-            "text": "£99.00"
+            "text": "Â£99.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2893,19 +2893,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 50.00,
-            "text": "£50.00"
+            "text": "Â£50.00"
           },
           "rrp": {
             "value": 99.00,
-            "text": "£99.00"
+            "text": "Â£99.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2929,19 +2929,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 50.00,
-            "text": "£50.00"
+            "text": "Â£50.00"
           },
           "rrp": {
             "value": 99.00,
-            "text": "£99.00"
+            "text": "Â£99.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2965,19 +2965,19 @@
         "price": {
           "current": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "previous": {
             "value": 50.00,
-            "text": "£50.00"
+            "text": "Â£50.00"
           },
           "rrp": {
             "value": 99.00,
-            "text": "£99.00"
+            "text": "Â£99.00"
           },
           "xrp": {
             "value": 27.00,
-            "text": "£27.00"
+            "text": "Â£27.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -2992,35 +2992,35 @@
     "brandName": "French Connection",
     "images": [
       {
-        "url": "s7testing-images.asos-media.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-1-winterwhite",
+        "url": "s7testing-images.xxxxx.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-1-winterwhite",
         "type": "Standard1",
         "colourCode": "WH1",
         "colour": "Winter white",
         "isPrimary": true
       },
       {
-        "url": "s7testing-images.asos-media.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-2",
+        "url": "s7testing-images.xxxxx.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-3",
+        "url": "s7testing-images.xxxxx.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-4",
+        "url": "s7testing-images.xxxxx.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "s7testing-images.asos-media.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-swatch-wh1",
+        "url": "s7testing-images.xxxxx.com/products/french-connection-cottage-cotton-collarless-jacket/5046418-swatch-wh1",
         "type": "Swatch",
         "colourCode": "WH1",
         "colour": "Winter white",
@@ -3030,19 +3030,19 @@
     "price": {
       "current": {
         "value": 32.00,
-        "text": "£32.00"
+        "text": "Â£32.00"
       },
       "previous": {
         "value": 100.00,
-        "text": "£100.00"
+        "text": "Â£100.00"
       },
       "rrp": {
         "value": 160.00,
-        "text": "£160.00"
+        "text": "Â£160.00"
       },
       "xrp": {
         "value": 32.00,
-        "text": "£32.00"
+        "text": "Â£32.00"
       },
       "currency": "GBP",
       "isMarkedDown": false,
@@ -3074,19 +3074,19 @@
         "price": {
           "current": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "previous": {
             "value": 100.00,
-            "text": "£100.00"
+            "text": "Â£100.00"
           },
           "rrp": {
             "value": 160.00,
-            "text": "£160.00"
+            "text": "Â£160.00"
           },
           "xrp": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3110,19 +3110,19 @@
         "price": {
           "current": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "previous": {
             "value": 100.00,
-            "text": "£100.00"
+            "text": "Â£100.00"
           },
           "rrp": {
             "value": 160.00,
-            "text": "£160.00"
+            "text": "Â£160.00"
           },
           "xrp": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3146,19 +3146,19 @@
         "price": {
           "current": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "previous": {
             "value": 100.00,
-            "text": "£100.00"
+            "text": "Â£100.00"
           },
           "rrp": {
             "value": 160.00,
-            "text": "£160.00"
+            "text": "Â£160.00"
           },
           "xrp": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3182,19 +3182,19 @@
         "price": {
           "current": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "previous": {
             "value": 100.00,
-            "text": "£100.00"
+            "text": "Â£100.00"
           },
           "rrp": {
             "value": 160.00,
-            "text": "£160.00"
+            "text": "Â£160.00"
           },
           "xrp": {
             "value": 32.00,
-            "text": "£32.00"
+            "text": "Â£32.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3209,35 +3209,35 @@
     "brandName": "ASOS",
     "images": [
       {
-        "url": "images.asos-media.com/products/asos-nene-knot-slider-slippers/7792793-1-stripe",
+        "url": "images.xxxxx.com/products/asos-nene-knot-slider-slippers/7792793-1-stripe",
         "type": "Standard1",
         "colourCode": "MU1",
         "colour": "Stripe",
         "isPrimary": true
       },
       {
-        "url": "images.asos-media.com/products/asos-nene-knot-slider-slippers/7792793-2",
+        "url": "images.xxxxx.com/products/asos-nene-knot-slider-slippers/7792793-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/asos-nene-knot-slider-slippers/7792793-3",
+        "url": "images.xxxxx.com/products/asos-nene-knot-slider-slippers/7792793-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/asos-nene-knot-slider-slippers/7792793-4",
+        "url": "images.xxxxx.com/products/asos-nene-knot-slider-slippers/7792793-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/asos-nene-knot-slider-slippers/7792793-swatch-mu1",
+        "url": "images.xxxxx.com/products/asos-nene-knot-slider-slippers/7792793-swatch-mu1",
         "type": "Swatch",
         "colourCode": "MU1",
         "colour": "Stripe",
@@ -3247,19 +3247,19 @@
     "price": {
       "current": {
         "value": 12.00,
-        "text": "£12.00"
+        "text": "Â£12.00"
       },
       "previous": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 12.00,
-        "text": "£12.00"
+        "text": "Â£12.00"
       },
       "currency": "GBP",
       "isMarkedDown": false,
@@ -3291,19 +3291,19 @@
         "price": {
           "current": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "previous": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3327,19 +3327,19 @@
         "price": {
           "current": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "previous": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3363,19 +3363,19 @@
         "price": {
           "current": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "previous": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3399,19 +3399,19 @@
         "price": {
           "current": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "previous": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.00,
-            "text": "£12.00"
+            "text": "Â£12.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3426,28 +3426,28 @@
     "brandName": "Missguided",
     "images": [
       {
-        "url": "images.asos-media.com/products/missguided-stud-detail-sandal/8041777-1-black",
+        "url": "images.xxxxx.com/products/missguided-stud-detail-sandal/8041777-1-black",
         "type": "Standard1",
         "colourCode": "BK1",
         "colour": "Black",
         "isPrimary": true
       },
       {
-        "url": "images.asos-media.com/products/missguided-stud-detail-sandal/8041777-2",
+        "url": "images.xxxxx.com/products/missguided-stud-detail-sandal/8041777-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/missguided-stud-detail-sandal/8041777-3",
+        "url": "images.xxxxx.com/products/missguided-stud-detail-sandal/8041777-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/missguided-stud-detail-sandal/8041777-4",
+        "url": "images.xxxxx.com/products/missguided-stud-detail-sandal/8041777-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
@@ -3457,19 +3457,19 @@
     "price": {
       "current": {
         "value": 12.50,
-        "text": "£12.50"
+        "text": "Â£12.50"
       },
       "previous": {
         "value": 28.00,
-        "text": "£28.00"
+        "text": "Â£28.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 12.50,
-        "text": "£12.50"
+        "text": "Â£12.50"
       },
       "currency": "GBP",
       "isMarkedDown": true,
@@ -3501,19 +3501,19 @@
         "price": {
           "current": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -3537,19 +3537,19 @@
         "price": {
           "current": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -3573,19 +3573,19 @@
         "price": {
           "current": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -3609,19 +3609,19 @@
         "price": {
           "current": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -3645,19 +3645,19 @@
         "price": {
           "current": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -3681,19 +3681,19 @@
         "price": {
           "current": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "previous": {
             "value": 28.00,
-            "text": "£28.00"
+            "text": "Â£28.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 12.50,
-            "text": "£12.50"
+            "text": "Â£12.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -3708,35 +3708,35 @@
     "brandName": "ASOS",
     "images": [
       {
-        "url": "images.asos-media.com/products/asos-emberly-point-ankle-boots/8140443-1-redpatent",
+        "url": "images.xxxxx.com/products/asos-emberly-point-ankle-boots/8140443-1-redpatent",
         "type": "Standard1",
         "colourCode": "RE1",
         "colour": "Red patent",
         "isPrimary": true
       },
       {
-        "url": "images.asos-media.com/products/asos-emberly-point-ankle-boots/8140443-2",
+        "url": "images.xxxxx.com/products/asos-emberly-point-ankle-boots/8140443-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/asos-emberly-point-ankle-boots/8140443-3",
+        "url": "images.xxxxx.com/products/asos-emberly-point-ankle-boots/8140443-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/asos-emberly-point-ankle-boots/8140443-4",
+        "url": "images.xxxxx.com/products/asos-emberly-point-ankle-boots/8140443-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/asos-emberly-point-ankle-boots/8140443-swatch-re1",
+        "url": "images.xxxxx.com/products/asos-emberly-point-ankle-boots/8140443-swatch-re1",
         "type": "Swatch",
         "colourCode": "RE1",
         "colour": "Red patent",
@@ -3746,19 +3746,19 @@
     "price": {
       "current": {
         "value": 45.00,
-        "text": "£45.00"
+        "text": "Â£45.00"
       },
       "previous": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 45.00,
-        "text": "£45.00"
+        "text": "Â£45.00"
       },
       "currency": "GBP",
       "isMarkedDown": false,
@@ -3790,19 +3790,19 @@
         "price": {
           "current": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "previous": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3826,19 +3826,19 @@
         "price": {
           "current": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "previous": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3862,19 +3862,19 @@
         "price": {
           "current": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "previous": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3898,19 +3898,19 @@
         "price": {
           "current": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "previous": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3934,19 +3934,19 @@
         "price": {
           "current": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "previous": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3970,19 +3970,19 @@
         "price": {
           "current": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "previous": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 45.00,
-            "text": "£45.00"
+            "text": "Â£45.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -3997,28 +3997,28 @@
     "brandName": "Vans",
     "images": [
       {
-        "url": "images.asos-media.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-1-blue",
+        "url": "images.xxxxx.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-1-blue",
         "type": "Standard1",
         "colourCode": "BL1",
         "colour": "Blue",
         "isPrimary": true
       },
       {
-        "url": "images.asos-media.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-2",
+        "url": "images.xxxxx.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-3",
+        "url": "images.xxxxx.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-4",
+        "url": "images.xxxxx.com/products/vans-classic-sk8-hi-trainers-in-blue-and-black/8336858-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
@@ -4028,19 +4028,19 @@
     "price": {
       "current": {
         "value": 60.00,
-        "text": "£60.00"
+        "text": "Â£60.00"
       },
       "previous": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 60.00,
-        "text": "£60.00"
+        "text": "Â£60.00"
       },
       "currency": "GBP",
       "isMarkedDown": false,
@@ -4072,19 +4072,19 @@
         "price": {
           "current": {
             "value": 60.00,
-            "text": "£60.00"
+            "text": "Â£60.00"
           },
           "previous": {
             "value": 60.00,
-            "text": "£60.00"
+            "text": "Â£60.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 60.00,
-            "text": "£60.00"
+            "text": "Â£60.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4108,19 +4108,19 @@
         "price": {
           "current": {
             "value": 60.00,
-            "text": "£60.00"
+            "text": "Â£60.00"
           },
           "previous": {
             "value": 60.00,
-            "text": "£60.00"
+            "text": "Â£60.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 60.00,
-            "text": "£60.00"
+            "text": "Â£60.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4135,35 +4135,35 @@
     "brandName": "Nike",
     "images": [
       {
-        "url": "images.asos-media.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-1-purple",
+        "url": "images.xxxxx.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-1-purple",
         "type": "Standard1",
         "colourCode": "PU1",
         "colour": "Purple",
         "isPrimary": true
       },
       {
-        "url": "images.asos-media.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-2",
+        "url": "images.xxxxx.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-3",
+        "url": "images.xxxxx.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-4",
+        "url": "images.xxxxx.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-swatch-pu1",
+        "url": "images.xxxxx.com/products/nike-velvet-cortez-trainers-in-lilac/8404682-swatch-pu1",
         "type": "Swatch",
         "colourCode": "PU1",
         "colour": "Purple",
@@ -4173,19 +4173,19 @@
     "price": {
       "current": {
         "value": 75.00,
-        "text": "£75.00"
+        "text": "Â£75.00"
       },
       "previous": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 75.00,
-        "text": "£75.00"
+        "text": "Â£75.00"
       },
       "currency": "GBP",
       "isMarkedDown": false,
@@ -4217,19 +4217,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4253,19 +4253,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4289,19 +4289,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4325,19 +4325,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4361,19 +4361,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4397,19 +4397,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4433,19 +4433,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4469,19 +4469,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4505,19 +4505,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4541,19 +4541,19 @@
         "price": {
           "current": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "previous": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 75.00,
-            "text": "£75.00"
+            "text": "Â£75.00"
           },
           "currency": "GBP",
           "isMarkedDown": false,
@@ -4568,35 +4568,35 @@
     "brandName": "Mango",
     "images": [
       {
-        "url": "images.asos-media.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-1-nude",
+        "url": "images.xxxxx.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-1-nude",
         "type": "Standard1",
         "colourCode": "BE1",
         "colour": "Nude",
         "isPrimary": true
       },
       {
-        "url": "images.asos-media.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-2",
+        "url": "images.xxxxx.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-2",
         "type": "Standard2",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-3",
+        "url": "images.xxxxx.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-3",
         "type": "Standard3",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-4",
+        "url": "images.xxxxx.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-4",
         "type": "Standard4",
         "colourCode": "",
         "colour": "",
         "isPrimary": false
       },
       {
-        "url": "images.asos-media.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-swatch-be1",
+        "url": "images.xxxxx.com/products/mango-contrast-block-heel-sling-back-shoe/8612929-swatch-be1",
         "type": "Swatch",
         "colourCode": "BE1",
         "colour": "Nude",
@@ -4606,19 +4606,19 @@
     "price": {
       "current": {
         "value": 31.50,
-        "text": "£31.50"
+        "text": "Â£31.50"
       },
       "previous": {
         "value": 69.99,
-        "text": "£69.99"
+        "text": "Â£69.99"
       },
       "rrp": {
         "value": 0.0,
-        "text": "£0.00"
+        "text": "Â£0.00"
       },
       "xrp": {
         "value": 31.50,
-        "text": "£31.50"
+        "text": "Â£31.50"
       },
       "currency": "GBP",
       "isMarkedDown": true,
@@ -4650,19 +4650,19 @@
         "price": {
           "current": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "previous": {
             "value": 69.99,
-            "text": "£69.99"
+            "text": "Â£69.99"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -4686,19 +4686,19 @@
         "price": {
           "current": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "previous": {
             "value": 69.99,
-            "text": "£69.99"
+            "text": "Â£69.99"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -4722,19 +4722,19 @@
         "price": {
           "current": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "previous": {
             "value": 69.99,
-            "text": "£69.99"
+            "text": "Â£69.99"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -4758,19 +4758,19 @@
         "price": {
           "current": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "previous": {
             "value": 69.99,
-            "text": "£69.99"
+            "text": "Â£69.99"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -4794,19 +4794,19 @@
         "price": {
           "current": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "previous": {
             "value": 69.99,
-            "text": "£69.99"
+            "text": "Â£69.99"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
@@ -4830,19 +4830,19 @@
         "price": {
           "current": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "previous": {
             "value": 69.99,
-            "text": "£69.99"
+            "text": "Â£69.99"
           },
           "rrp": {
             "value": 0.0,
-            "text": "£0.00"
+            "text": "Â£0.00"
           },
           "xrp": {
             "value": 31.50,
-            "text": "£31.50"
+            "text": "Â£31.50"
           },
           "currency": "GBP",
           "isMarkedDown": true,
